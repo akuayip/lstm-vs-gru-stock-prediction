@@ -10,5 +10,5 @@
 | Rahmat Aldi Nasda        | 122140077   | ML Engineer                            | [Rahmat](https://github.com/urbaee)|
 | Dito Rifki Irawan        | 122140153   | ML Engineer                            | [Dito](https://github.com/Caseinn)|
 | Zidan Raihan             | 122140100   | Evaluator & Visualisasi Hasil          | [zidbytes](https://github.com/zidbytes) |
-| Fathan Andi Kartagama    | 122140055   | Dokumentasi & GitHub Manager           | [Fathan] (https://github.com/pataanggs)|
-| Cici Tri Fadila .As      | 122140086   | Dokumentasi & GitHub Manager           | [Cici] (https://github.com/ceceyeolie)|
+| Fathan Andi Kartagama    | 122140055   | Dokumentasi & GitHub Manager           | [Fathan](https://github.com/pataanggs)|
+| Cici Tri Fadila .As      | 122140086   | Dokumentasi & GitHub Manager           | [Cici](https://github.com/ceceyeolie)|
